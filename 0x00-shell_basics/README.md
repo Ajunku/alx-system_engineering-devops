@@ -1,1 +1,1 @@
-pwd
+listing
